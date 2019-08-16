@@ -26,7 +26,7 @@ defaults:
       image: true
 
 sass:
-  style: compact # possible values: nested expanded compact compressed
+  style: compact
 
 google_analytics_id: null
 
