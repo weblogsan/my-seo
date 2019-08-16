@@ -1,4 +1,4 @@
-baseurl: '’
+baseurl: 'myseo.icu’
 exclude: ['README.md']
 permalink: pretty
 title: 'My SEO'
