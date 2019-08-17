@@ -1,5 +1,5 @@
-baseurl: '/’
-exclude: ['README.md']
+baseurl: 
+exclude: 
 permalink: pretty
 title: 'My SEO'
 
