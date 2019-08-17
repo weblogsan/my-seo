@@ -1,4 +1,4 @@
-baseurl: '/my-seo'
+baseurl:
 exclude: 
 permalink: pretty
 title: 'My SEO'
