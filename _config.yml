@@ -1,7 +1,7 @@
 baseurl:
 exclude: 
 permalink: pretty
-title: 'My SEO'
+title: 'My SEO Company '
 
 collections:
   services:
